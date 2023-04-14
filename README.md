@@ -1,2 +1,3 @@
-# Figma-HTML-CSS
-This is repository for HTML and CSS Resourse
+# startup-of-the-year
+Starter project!
+*visist https://zerotomastery.io/ for more*
